@@ -1,0 +1,15 @@
+# Large Data Files
+data
+
+#Eclipse Project Files
+.project
+.pydevproject
+.settings
+
+# Compiled Files
+*.py[c,w,f]
+
+#emacs old files
+*~
+\#*\#
+
